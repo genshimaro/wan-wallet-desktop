@@ -3,76 +3,76 @@
         "applicationMenu": {
             "app": {
                 "label": "{{app}}",
-                "about": "About {{app}}",
-                "version": "Wan Wallet Version {{version}}",
+                "about": "À propos {{app}}",
+                "version": "Portefeuille WAN version {{version}}",
                 "developer": {
-                    "label": "Developer",
+                    "label": "Développeur",
                     "assets": {
-                        "label": "Assets",
+                        "label": "Actifs",
                         "wan": {
                             "label": "Wanchain",
-                            "import": "Import Keystore File"
+                            "import": "Importer fichier Keystore"
                         }
                     },
                     "data": {
-                        "label": "Data Folder",
-                        "db": "Open Data Folder",
-                        "log": "Open Log Folder"
+                        "label": "Dossier stockage de données",
+                        "db": "Ouvrir dossier stockage de données",
+                        "log": "Ouvrir dossier registre (log)"
                     }
                 },
                 "services": "Services",
-                "checkForUpdate": "Check for Updates...",
-                "hide": "Hide {{ app }}",
-                "hideOthers": "Hide others",
-                "showAll": "Show all",
-                "quit": "Quit {{ app }}"
+                "checkForUpdate": "Vérification des mises à jour ...",
+                "hide": "Masquer {{ app }}",
+                "hideOthers": "Masquer les autres",
+                "showAll": "Tout afficher",
+                "quit": "Quitter {{ app }}"
             },
             "edit": {
-                "label": "Edit",
-                "undo": "Undo",
-                "redo": "Redo",
-                "cut": "Cut",
-                "copy": "Copy",
-                "paste": "Paste",
-                "selectAll": "Select all"
+                "label": "Modifier",
+                "undo": "annuler",
+                "redo": "Refaire",
+                "cut": "Couper",
+                "copy": "Copier",
+                "paste": "Coller",
+                "selectAll": "Tout selectionner"
             },
             "setting": {
-                "label": "Settings",
+                "label": "Paramètres",
                 "network": {
-                    "label": "Network",
-                    "main": "Main Network",
-                    "test": "Test Network"
+                    "label": "Réseau",
+                    "main": "Réseau principal",
+                    "test": "Réseau test"
                 },
                 "mode": {
                     "label": "Mode",
-                    "full": "Full Node Wallet",
-                    "light": "Light Wallet"
+                    "full": "Portefeuille Full Node",
+                    "light": "Portefeuille Light"
                 },
                 "lang": {
-                    "label": "Language",
+                    "label": "Langues",
                     "code": {
-                        "en": "English",
-                        "zh": "中文(简体)",
-                        "th-TH": "ไทย",
-                        "ko-KR": "한국어",
-                        "fr-FR": "French"
+                        "en": "Anglais",
+                        "zh": "chinois",
+                        "th-TH": "Thai",
+                        "ko-KR": "Coréen",
+                        "fr-FR": "Francais"
                     }
                 }
             },
             "window": {
-                "label": "Window",
-                "fullscreen": "Full Screen",
-                "minimize": "Minimize",
-                "close": "Close",
-                "front": "Bring All to Front"
+                "label": "Fenêtre",
+                "fullscreen": "Plein écran",
+                "minimize": "Minimiser",
+                "close": "Fermer",
+                "front": "Mettre au premier plan"
             },
             "help": {
-                "label": "Help",
-                "web": "Wanchain Official Website",
+                "label": "Aide",
+                "web": "Site officiel Wanchain",
                 "explorer": "Wanchain Explorer",
                 "webURL": "https://wanchain.org",
                 "explorerURL": "https://www.wanscan.org",
-                "toggle": "Toggle Developer Tools"
+                "toggle": "Basculer vers les outils de développement"
             }
         }
     }
